@@ -33,7 +33,6 @@ venv.bak/
 /tmp
 .DS_Store
 
-*.jpg
 *.jpeg
 
 recreate_branches.sh
